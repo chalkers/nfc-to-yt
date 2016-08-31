@@ -1,0 +1,20 @@
+{
+  "name": "nfc-to-yt",
+  "version": "1.0.0",
+  "description": "Use Amiibo or Disney Infinity Characters to trigger YouTube Videos on an Apple TV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Amiibo",
+    "Disney",
+    "Matrix",
+    "Creator",
+    "IoT",
+    "Apple",
+    "TV"
+  ],
+  "author": "Andrew Chalkley <andrew@chalkley.org>",
+  "license": "MIT"
+}

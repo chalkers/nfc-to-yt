@@ -1,0 +1,10 @@
+{
+    "AppleTV": "Bedroom Apple TV",
+    "Command": "./example.sh",
+    "Toy" : {
+        "04DD3272ED4A80" : "JigglyPuff",
+        "047869FAB24981" : "Pikachu",
+        "0417992AF84380" : "Spider-man"
+    }
+}
+
