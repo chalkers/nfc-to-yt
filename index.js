@@ -19,7 +19,7 @@ function findNFC(callback) {
 
     nfc.on('close', (code) => {
         if(code === 0) {
-            callback(null, stdout.match(/UID: (.*)+/g)[0].split(" ")[2]);
+            callback(null, stdout.match(/UID: (.*)+/g)[0].split(" ").reverse()[0]);
         }
     });
 }
